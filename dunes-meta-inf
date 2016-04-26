@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>UTF-16</comment>
+<entry key="vso-build-nb">3533702</entry>
+<entry key="pkg-description"/>
+<entry key="pkg-name">org.definit.network.profiles</entry>
+<entry key="used-plugins">vCAC#7.0.1</entry>
+<entry key="pkg-signer">CN=VMWare,OU=VMWare,OU=VMWare,O=VMWare,C=US</entry>
+<entry key="pkg-owner">CN=VMWare,OU=VMWare,OU=VMWare,O=VMWare,C=US</entry>
+<entry key="vso-version">7.0.1.3533702</entry>
+<entry key="pkg-id">4028819b53ec22e001540559816a06de</entry>
+</properties>
